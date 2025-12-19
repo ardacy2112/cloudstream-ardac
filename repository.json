@@ -1,0 +1,13 @@
+{
+  "name": "ArdacRepo",
+  "description": "Ardac CloudStream Deposu",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "ArdacRepo",
+      "version": 1,
+      "language": "tr",
+      "url": "https://raw.githubusercontent.com/ardacy2112/cloudstream-ardac/main/ArdacRepo.kt"
+    }
+  ]
+}
