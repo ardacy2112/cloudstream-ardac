@@ -1,0 +1,10 @@
+{
+  "name": "ArdacRepo",
+  "description": "Ardac CloudStream Deposu",
+  "plugins": [
+    {
+      "name": "ArdacRepo",
+      "path": "ArdacRepo.kt"
+    }
+  ]
+}
